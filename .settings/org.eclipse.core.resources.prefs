@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebRoot/WEB-INF/postMessage.jsp=UTF-8
+encoding//src/com/san/domain/Users.java=UTF-8
+encoding//src/com/san/service/imp/UserServiceImp.java=UTF-8
+encoding//src/com/san/service/inter/MessageServiceInter.java=UTF-8
+encoding//src/com/san/service/inter/UserServiceInter.java=UTF-8
+encoding//src/com/san/struts/action/GoMessageUiAction.java=UTF-8
+encoding//src/com/san/struts/action/LoginAction.java=UTF-8
+encoding//src/com/san/util/MyMD5Util.java=UTF-8
+encoding//src/com/san/util/hibernateUtil.java=UTF-8
